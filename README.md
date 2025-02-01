@@ -1,6 +1,6 @@
 # Project Title:
 
-Employee Management (CRUD) System
+Employee Management System
 
 ## 1. Project Description:
 
