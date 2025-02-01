@@ -28,21 +28,7 @@ A Spring MVC web application for Employee Information Management with the follow
 
 
 
-## 3. Installing:
-
-i. Clone the git repo
-
-```
-https://github.com/AAdewunmi/SpringBoot-Employee-Management-System.git
-```
-
-ii. Open project folder
-
-iii. Explore
-
-
-
-## 4. How To Use:
+## 3. How To Use:
 
 i. Create Database -> demo
 
@@ -54,7 +40,7 @@ iv. Hibernate will automatically create a table -> employee
 
 v. Add sample data to table using MySQL Workbench Client
 
-vi. Open web app at localhost: 8080/
+vi. Open web app at localhost: 2000/
 
 vii. Add, Update and Delete records from web app 
 
@@ -64,32 +50,7 @@ Have fun
 
 
 
-## 5. Demo:
-
-### - All Employee UI
-
-![This is an image](src/main/java/images/main_creenshot.png)
-
-### - Add Employee UI
-
-![This is an image](src/main/java/images/add_creenshot.png)
-
-### - Update UI
-
-![This is an image](src/main/java/images/update_creenshot.png)
 
 
 
-
-## 6. Original Creator:
-
-Author: Ramesh Fadatare 
- 
-Github Project Name: springboot-thymeleaf-crud-pagination-sorting-webapp
-
-Github URL: https://github.com/RameshMF/springboot-thymeleaf-crud-pagination-sorting-webapp
-
-Youtube URL: https://www.youtube.com/watch?v=_5sAmaRJd2c
-
-Date: 1 June, 2020
 
